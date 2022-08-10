@@ -30,3 +30,6 @@ ensure qb-apartments
 ensure qb-clothing
 ensure qb-weathersync
 ```
+
+## ISSUES
+- Have to fix the text bug
