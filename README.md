@@ -23,12 +23,7 @@ Multi Character Feature for QB-Core Framework :people_holding_hands:
 - Download the script and put it in the `[qb]` directory.
 - Add the following code to your server.cfg/resouces.cfg
 ```
-ensure qb-core
 ensure rzb-characters
-ensure qb-spawn
-ensure qb-apartments
-ensure qb-clothing
-ensure qb-weathersync
 ```
 
 ## ISSUES
